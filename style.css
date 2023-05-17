@@ -84,7 +84,7 @@ body {
 
 .home{
     height: 100vh;
-    background: url('dom.png') no-repeat;
+    background: url('https://github.com/LazyGreed/dara_portfolio/blob/23be1c25502741b3013d49fdcf991abdcef80262/images/dom.png?raw=true') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
